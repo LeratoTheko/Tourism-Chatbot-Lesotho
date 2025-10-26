@@ -1,0 +1,77 @@
+<!-- NAVBAR -->
+<nav id="mainNavbar" class="navbar navbar-expand-lg navbar-dark py-3 fixed-top">
+  <div class="container d-flex flex-column align-items-center">
+    <button class="navbar-toggler mt-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCentered"
+      aria-controls="navbarCentered" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-center mt-2" id="navbarCentered">
+      <ul class="navbar-nav gap-4 text-center">
+        <li class="nav-item">
+          <a class="nav-link active" href="{% url 'welcome' %}" style="color:#fff; font-weight:500;">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#features" style="color:#fff; font-weight:500;">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#chatbot" style="color:#fff; font-weight:500;">Chatbot</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about" style="color:#fff; font-weight:500;">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact" style="color:#fff; font-weight:500;">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<style>
+  /* Base navbar styling */
+  #mainNavbar {
+    width: 100%;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(8px);
+    transition: all 0.3s ease-in-out;
+  }
+  #mainNavbar.scrolled {
+    background-color: #000;
+    box-shadow: 0 2px 10px rgba(35, 190, 200, 0.2);
+  }
+
+  .navbar-nav .nav-link {
+    position: relative;
+    transition: color 0.3s ease;
+  }
+  .navbar-nav .nav-link::after {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #23bec8;
+    transition: width 0.3s ease;
+  }
+  .navbar-nav .nav-link:hover {
+    color: #23bec8 !important;
+  }
+  .navbar-nav .nav-link:hover::after {
+    width: 100%;
+  }
+</style>
+
+<script>
+  // Add scroll effect for navbar background
+  window.addEventListener('scroll', function() {
+    const navbar = document.getElementById('mainNavbar');
+    if (window.scrollY > 50) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });
+</script>
