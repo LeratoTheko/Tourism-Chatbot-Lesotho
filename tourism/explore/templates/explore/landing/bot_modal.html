@@ -1,24 +1,36 @@
-<!-- chatbot_modal.html -->
+<!-- Modernized Chatbot Modal -->
 <div class="modal fade" id="chatbotModal" tabindex="-1" aria-labelledby="chatbotModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" style="max-width: 550px;">
-    <div class="modal-content" style="background-color:#000; color:#fff; border:2px solid #23bec8; border-radius:10px;">
-      <div class="modal-header border-0">
-        <h5 class="modal-title fw-semibold" id="chatbotModalLabel">Tourism & Culture Chatbot</h5>
+  <div class="modal-dialog modal-dialog-centered modal-lg" style="max-width: 500px;">
+    <div class="modal-content border-0 shadow-lg" style="background: linear-gradient(145deg, #0a0a0a, #111); border-radius: 16px;">
+      
+      <!-- Header -->
+      <div class="modal-header border-0 px-4 pt-4">
+        <h5 class="modal-title fw-bold text-white" id="chatbotModalLabel">
+          <i class="bi bi-robot text-info me-2" style="color:#23bec8;"></i> Thato – Tourism & Culture Chatbot
+        </h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       
-      <div class="modal-body">
-        <!-- Chatbot UI -->
-        <div id="chat-area" class="p-3 rounded" style="background:#111; height:400px; overflow-y:auto;">
-          <p class="text-muted mb-0">👋 Hello! I’m Thato, your Tourism & Culture Assistant.  
-          Ask me about <strong>Sesotho phrases</strong>, <strong>Basotho culture</strong>, or <strong>top attractions</strong> like Maletsunyane Falls and Thaba Bosiu!</p>
+      <!-- Body -->
+      <div class="modal-body px-4 pb-4">
+        <!-- Chat area -->
+        <div id="chat-area" class="rounded p-3 mb-3" 
+             style="background:#0d0d0d; height:420px; overflow-y:auto; border:1px solid #1e1e1e; box-shadow: inset 0 0 10px rgba(35,190,200,0.2);">
+          <div class="text-muted small">
+            👋 <strong>Hello!</strong> I’m <span style="color:#23bec8;">Thato</span>, your Tourism & Culture Assistant.<br>
+            Ask me about <strong>Sesotho phrases</strong>, <strong>Basotho culture</strong>, or <strong>top attractions</strong> like Maletsunyane Falls and Thaba Bosiu!
+          </div>
         </div>
 
-        <div class="input-group mt-3">
-          <input type="text" class="form-control" placeholder="Type your message..." style="background:#222; color:#fff; border:none;">
-          <button class="btn" style="background-color:#23bec8; color:#fff;">Send</button>
+        <!-- Input area -->
+        <div class="d-flex align-items-center bg-dark rounded-pill px-3 py-2 shadow-sm" style="border:1px solid #1e1e1e;">
+          <input type="text" class="form-control border-0 bg-transparent text-white" placeholder="Type your message..." aria-label="Chat input">
+          <button class="btn rounded-circle ms-2" style="background-color:#23bec8; color:#fff; width:42px; height:42px;">
+            <i class="bi bi-send"></i>
+          </button>
         </div>
       </div>
+
     </div>
   </div>
 </div>
