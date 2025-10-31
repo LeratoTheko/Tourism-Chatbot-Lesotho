@@ -1,0 +1,1415 @@
+{
+  "data": [
+    {
+      "category": "Basic Communication",
+      "question": "How do I say hello in Sesotho?",
+      "sesotho": "Lumela (to one person) / Lumelang (to many)",
+      "pronunciation": "loo-MEH-lah / loo-MEH-lahng",
+      "meaning": "Hello / Greetings"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I say thank you in Sesotho?",
+      "sesotho": "Kea leboha",
+      "pronunciation": "keh-ah leh-BO-hah",
+      "meaning": "Thank you"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "What’s the Sesotho word for good morning?",
+      "sesotho": "Khotsong or Lumela hoseng",
+      "pronunciation": "kho-TSOHng / loo-MEH-lah ho-seng",
+      "meaning": "Good morning / Peace to you"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I say goodbye?",
+      "sesotho": "Sala hantle (if staying) / Tsamaya hantle (if leaving)",
+      "pronunciation": "sah-LAH han-TLEH / tsah-MAH-yah han-TLEH",
+      "meaning": "Goodbye / Go well / Stay well"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I introduce myself in Sesotho?",
+      "sesotho": "Lebitso la ka ke [name].",
+      "pronunciation": "leh-BEET-soh lah kah keh [name]",
+      "meaning": "My name is [name]"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I ask someone’s name?",
+      "sesotho": "Lebitso la hau ke mang?",
+      "pronunciation": "leh-BEET-soh lah how keh mahng?",
+      "meaning": "What is your name?"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I say nice to meet you?",
+      "sesotho": "Ke thabile ho u tseba.",
+      "pronunciation": "keh tah-BEE-leh ho oo tse-BAH",
+      "meaning": "I am happy to know/meet you"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "What’s the polite way to greet elders?",
+      "sesotho": "Khotso, ntate / ’m’e.",
+      "pronunciation": "kho-TSOH, n-TAH-teh / meh",
+      "meaning": "Peace, sir / ma’am"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I say please in Sesotho?",
+      "sesotho": "Ka kōpo",
+      "pronunciation": "kah KOH-poh",
+      "meaning": "Please"
+    },
+    {
+      "category": "Basic Communication",
+      "question": "How do I say excuse me or sorry?",
+      "sesotho": "Ntšoarele",
+      "pronunciation": "n-TSHWAH-reh-leh",
+      "meaning": "Excuse me / Forgive me / Sorry"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I ask for directions in Sesotho?",
+      "sesotho": "Ke kopa tataiso, ke ea kae [place]?",
+      "pronunciation": "keh koh-pah tah-TAH-ee-soh, keh yah kye [place]?",
+      "meaning": "Please give me directions, where is [place]?"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I say Where is the bathroom?",
+      "sesotho": "Ntloana-ea-boikhathollo e hokae?",
+      "pronunciation": "n-TLO-ah-nah eh boy-khah-THOH-loh eh ho-kah-eh?",
+      "meaning": "Where is the toilet/bathroom?"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I ask How much does this cost?",
+      "sesotho": "E bitsa bokae?",
+      "pronunciation": "eh BEET-sah boh-kah-eh?",
+      "meaning": "How much does it cost?"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "What’s the word for food or water?",
+      "sesotho": "Lijo (food), Metsi (water)",
+      "pronunciation": "LEE-jo / MEH-tsee",
+      "meaning": "Food / Water"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I ask for help?",
+      "sesotho": "Nthuse, ka kōpo.",
+      "pronunciation": "n-THOO-seh, kah KOH-poh",
+      "meaning": "Help me, please"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I say “I don’t understand”?",
+      "sesotho": "Ha ke utloisise.",
+      "pronunciation": "hah keh oot-LOY-see-seh",
+      "meaning": "I don’t understand"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I say “Can you speak English?”",
+      "sesotho": "Na u bua Senyesemane?",
+      "pronunciation": "nah oo boo-ah seh-nyeh-seh-MAH-neh?",
+      "meaning": "Do you speak English?"
+    },
+    {
+      "id": 18,
+      "category": "Travel and Daily Use",
+      "question": "How do I ask “What time is it?”",
+      "sesotho": "Ke nako mang?",
+      "pronunciation": "keh NAH-koh mahng?",
+      "meaning": "What time is it?"
+    },
+    {
+      "id": 19,
+      "category": "Travel and Daily Use",
+      "question": "How do I say “I am lost”?",
+      "sesotho": "Ke lahlehile.",
+      "pronunciation": "keh lah-LEH-hee-leh",
+      "meaning": "I am lost"
+    },
+    {
+      "category": "Travel and Daily Use",
+      "question": "How do I say “I’m from [country name]”?",
+      "sesotho": "Ke tsoa [country name].",
+      "pronunciation": "keh tso-AH [country name]",
+      "meaning": "I am from [country name]"
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "How do I greet people when entering a village?",
+      "sesotho": "Say 'Khotso!' or 'Lumela!' as a greeting of peace.",
+      "pronunciation": "kho-TSOH / loo-MEH-lah",
+      "meaning": "Greet people respectfully by saying 'Peace!' or 'Hello!' when entering a community."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "Are there words I should avoid saying in Sesotho?",
+      "sesotho": "Avoid using harsh or commanding tones, and do not use first names with elders unless invited.",
+      "pronunciation": "—",
+      "meaning": "Respect and humility are central in speech; tone and address matter more than specific words."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "What are some respectful ways to address older people?",
+      "sesotho": "Address men as 'Ntate' and women as ''M’e'.",
+      "pronunciation": "n-TAH-teh / meh",
+      "meaning": "Use 'Ntate' for older men and ''M’e' for older women as a sign of respect."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "How do people express gratitude or blessings in Sesotho culture?",
+      "sesotho": "They often say 'Kea leboha haholo' or 'Molimo a u hlohonolofatse.'",
+      "pronunciation": "keh-ah leh-BO-hah hah-HOO-lo / moh-LEE-moh ah oo hlo-ho-no-LO-fah-tseh",
+      "meaning": "Means 'Thank you very much' or 'May God bless you.'"
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "What does 'Khotso' mean and when is it used?",
+      "sesotho": "'Khotso' means 'Peace' and is used as a greeting or blessing.",
+      "pronunciation": "kho-TSOH",
+      "meaning": "A traditional Basotho greeting meaning peace, often exchanged when meeting or parting."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "How do Basotho people use language to show respect?",
+      "sesotho": "They use polite forms, titles, and soft tones, especially with elders.",
+      "pronunciation": "—",
+      "meaning": "Speech is often indirect, showing humility and respect in phrasing."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "Are there proverbs or sayings unique to the Sesotho language?",
+      "sesotho": "Yes, for example 'Ntja peli ha e hlolwe ke sebata' (Two dogs cannot be defeated by a beast).",
+      "pronunciation": "n-JAH PEH-dee hah eh hlo-LWEH keh seh-BAH-tah",
+      "meaning": "It means unity brings strength."
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "What’s the traditional way of thanking a host in Sesotho?",
+      "sesotho": "Say 'Kea leboha haholo, u nkametse hantle.'",
+      "pronunciation": "keh-ah leh-BO-hah hah-HOO-lo, oo n-kah-MEH-tseh han-TLEH",
+      "meaning": "Means 'Thank you very much, you have hosted me well.'"
+    },
+    {
+      "category": "Culture and Customs",
+      "question": "How do I say 'I like your culture' or 'your country is beautiful'?",
+      "sesotho": "'Kea rata setso sa lona' / 'Naha ea lona e ntle haholo.'",
+      "pronunciation": "keh-ah rah-TAH seh-tsoh sah LO-nah / nah-hah eh LO-nah eh hn-TLEH hah-HOO-lo",
+      "meaning": "I like your culture / Your country is very beautiful."
+    },
+    {
+      "id": 30,
+      "category": "Culture and Customs",
+      "question": "What’s the significance of tone and politeness in Sesotho speech?",
+      "sesotho": "Tone shows humility and respect; directness can be seen as rude.",
+      "pronunciation": "—",
+      "meaning": "A calm and respectful tone is essential in Sesotho communication."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "Is Sesotho a tonal language?",
+      "sesotho": "Yes, tone can change meaning, though it's subtle compared to some African languages.",
+      "pronunciation": "—",
+      "meaning": "Pitch can differentiate word meanings."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "What alphabet or script is used in Sesotho?",
+      "sesotho": "Sesotho uses the Latin alphabet.",
+      "pronunciation": "—",
+      "meaning": "The same letters as English, without special characters."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "How do I pronounce the 'tl' and 'qh' sounds in Sesotho?",
+      "sesotho": "'tl' is a soft click between t and l, 'qh' is a strong aspirated h.",
+      "pronunciation": "tl (like ‘tla’ in tlali), qh (like air burst in qha).",
+      "meaning": "Unique sounds that require practice to master."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "How do plurals work in Sesotho?",
+      "sesotho": "Plurals use noun class prefixes, e.g., 'motho' (person) → 'batho' (people).",
+      "pronunciation": "moh-THOH / bah-THOH",
+      "meaning": "Words change prefixes to form plurals rather than adding -s."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "What’s the structure of a typical Sesotho sentence?",
+      "sesotho": "Subject + Verb + Object (e.g., 'Ke rata lijo' = I like food).",
+      "pronunciation": "keh rah-TAH LEE-joh",
+      "meaning": "Sentence order is similar to English."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "How many genders or noun classes does Sesotho have?",
+      "sesotho": "Sesotho has around 9 major noun classes, not gendered like English.",
+      "pronunciation": "—",
+      "meaning": "Noun classes group words by meaning or function, not gender."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "Are there differences between spoken and written Sesotho?",
+      "sesotho": "Yes, spoken Sesotho is more fluid and uses contractions.",
+      "pronunciation": "—",
+      "meaning": "Written Sesotho follows grammar strictly; speech is more relaxed."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "How similar is Sesotho to Setswana or isiZulu?",
+      "sesotho": "Sesotho and Setswana are closely related; isiZulu is more distant but shares roots.",
+      "pronunciation": "—",
+      "meaning": "Speakers of Sotho languages often understand each other partially."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "How difficult is Sesotho for English speakers to learn?",
+      "sesotho": "Moderately challenging due to noun classes and sounds, but grammar is consistent.",
+      "pronunciation": "—",
+      "meaning": "With practice, it’s easier than tonal or complex grammatical languages."
+    },
+    {
+      "category": "Language Learning and Grammar",
+      "question": "What are the most important verbs to know first?",
+      "sesotho": "'Rata' (to like/love), 'Tsoa' (to come from), 'Eba' (to be), 'Eya' (to go).",
+      "pronunciation": "rah-TAH / tso-AH / eh-BAH / eh-YAH",
+      "meaning": "Basic verbs help you express identity, movement, and emotion."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "What does the saying 'Lefu ke ngaka ea bophelo' mean?",
+      "sesotho": "'Lefu ke ngaka ea bophelo' means 'Death is the doctor of life.'",
+      "pronunciation": "leh-FOO keh ngah-KAH eh-ah boh-PHEH-loh",
+      "meaning": "It reflects the belief that death completes life’s natural cycle."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "Are there Sesotho idioms about love or friendship?",
+      "sesotho": "Yes, 'Motsoalle ke lerato le sa feleng' — 'A friend is everlasting love.'",
+      "pronunciation": "moh-tso-AH-leh keh leh-RAH-toh leh sah FEH-leng",
+      "meaning": "Shows the deep emotional value placed on friendship."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "What’s a common Sesotho blessing or wish?",
+      "sesotho": "'Molimo a u hlohonolofatse' — 'May God bless you.'",
+      "pronunciation": "moh-LEE-moh ah oo hlo-ho-no-LO-fah-tseh",
+      "meaning": "Used to bless others or wish them well."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "What do Basotho say when someone sneezes?",
+      "sesotho": "They say 'Thapelo' meaning 'prayer' or 'bless you.'",
+      "pronunciation": "thah-PEH-loh",
+      "meaning": "An expression wishing health or blessing."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "How do people express surprise or excitement in Sesotho?",
+      "sesotho": "Common exclamations include 'Aowa!' (No way!) or 'Eish!' (Wow!).",
+      "pronunciation": "ah-OH-wah / eysh",
+      "meaning": "Used to express disbelief or amazement."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "What do people say at weddings or celebrations?",
+      "sesotho": "They say 'Thabo e be le lona' — 'May joy be with you.'",
+      "pronunciation": "THAH-boh eh beh leh LO-nah",
+      "meaning": "A phrase of blessing for happiness and togetherness."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "How do you say 'good luck' or 'safe travels'?",
+      "sesotho": "'Tsamaea hantle' (Go well) or 'Leeto le le monate' (Have a good journey).",
+      "pronunciation": "tsah-MAH-yah han-TLEH / LEH-eh-toh leh leh moh-NAH-teh",
+      "meaning": "Wishing someone safety and happiness while traveling."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "Are there poetic or metaphorical ways of speaking in Sesotho?",
+      "sesotho": "Yes, Basotho use metaphors like 'pula e na le rona' — 'the rain is with us' to express blessings.",
+      "pronunciation": "POO-lah eh nah leh roh-NAH",
+      "meaning": "Rain symbolizes prosperity and divine favor."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "How do Basotho express humor through language?",
+      "sesotho": "Through wordplay, teasing, and idioms called 'metlae.'",
+      "pronunciation": "meh-TLAH-eh",
+      "meaning": "Humor often relies on playful exaggeration or cultural references."
+    },
+    {
+      "category": "Idioms, Proverbs, and Expressions",
+      "question": "What are some traditional songs or chants that teach the Sesotho language?",
+      "sesotho": "Children learn through songs like 'Koloi e nyane' and 'Pula! Pula!'",
+      "pronunciation": "koh-LOH-ee eh NYAH-neh / POO-lah",
+      "meaning": "Songs teach vocabulary, rhythm, and cultural values."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "What’s the origin of the Sesotho language?",
+      "sesotho": "It originated from the Bantu languages spoken by the Basotho people in Southern Africa.",
+      "pronunciation": "—",
+      "meaning": "Sesotho is part of the Niger-Congo language family."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "How old is the Sesotho language?",
+      "sesotho": "Sesotho has existed for centuries, with written form developed in the 19th century.",
+      "pronunciation": "—",
+      "meaning": "Missionaries like Eugène Casalis helped standardize written Sesotho."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "Who developed the written form of Sesotho?",
+      "sesotho": "French missionaries, especially Eugène Casalis, in collaboration with King Moshoeshoe I.",
+      "pronunciation": "—",
+      "meaning": "They codified grammar and produced the first Sesotho Bible."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "What countries speak Sesotho officially?",
+      "sesotho": "Lesotho and South Africa.",
+      "pronunciation": "—",
+      "meaning": "Sesotho is one of South Africa’s 11 official languages."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "Is Sesotho the same as Southern Sotho?",
+      "sesotho": "Yes, Sesotho is also called Southern Sotho to distinguish it from Setswana and Sepedi.",
+      "pronunciation": "—",
+      "meaning": "They belong to the Sotho-Tswana language group."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "What’s the difference between Sesotho and Setswana?",
+      "sesotho": "They share grammar and vocabulary, but pronunciation and some words differ.",
+      "pronunciation": "—",
+      "meaning": "Speakers can partially understand each other."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "How is Sesotho used in Lesotho’s education system?",
+      "sesotho": "It is the language of instruction in early grades and taught as a subject throughout schooling.",
+      "pronunciation": "—",
+      "meaning": "Sesotho preserves cultural identity and literacy."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "Do most people in Lesotho speak Sesotho fluently?",
+      "sesotho": "Yes, nearly all Basotho people speak Sesotho as a first or primary language.",
+      "pronunciation": "—",
+      "meaning": "It’s the national and everyday spoken language."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "How important is Sesotho to Basotho identity?",
+      "sesotho": "It is central to Basotho heritage and pride; language defines their sense of unity.",
+      "pronunciation": "—",
+      "meaning": "It connects people through shared culture and oral tradition."
+    },
+    {
+      "category": "Cultural and Social Context",
+      "question": "How do Basotho use language in storytelling?",
+      "sesotho": "They use proverbs, songs, and repetition to teach morals and preserve history.",
+      "pronunciation": "—",
+      "meaning": "Oral storytelling keeps cultural wisdom alive across generations."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "How do Basotho greet each other formally?",
+      "sesotho": "They say 'Lumelang' for plural or 'Lumela' for singular.",
+      "pronunciation": "loo-MEH-lah / loo-MEH-lang",
+      "meaning": "Means 'Hello' or 'Greetings.'"
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "What is a respectful way to greet elders?",
+      "sesotho": "Say 'Lumela ntate' (Hello father) or 'Lumela mme' (Hello mother).",
+      "pronunciation": "loo-MEH-lah n-TAH-teh / loo-MEH-lah m-MEH",
+      "meaning": "Shows respect and politeness to elders."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "Is it polite to shake hands in Lesotho?",
+      "sesotho": "Yes, shaking hands while slightly bowing is a polite gesture.",
+      "pronunciation": "—",
+      "meaning": "Shows humility and friendliness."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "How do you say thank you in Sesotho?",
+      "sesotho": "Kea leboha.",
+      "pronunciation": "keh-ah leh-BOH-hah",
+      "meaning": "Means 'Thank you.'"
+    },
+    {
+      "id": 65,
+      "category": "Social Interaction & Etiquette",
+      "question": "How do you respond to Kea leboha?",
+      "sesotho": "You can say 'U amohelehile' meaning 'You are welcome.'",
+      "pronunciation": "oo ah-moh-HEH-leh-heh-leh",
+      "meaning": "Used to reply politely to gratitude."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "What is considered rude in Sesotho culture?",
+      "sesotho": "Interrupting elders, not greeting, or using disrespectful tone.",
+      "pronunciation": "—",
+      "meaning": "Respect and greetings are highly valued."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "How do you apologize in Sesotho?",
+      "sesotho": "Ntšoarele means Forgive me or I'm sorry.",
+      "pronunciation": "n-TSHOH-ah-reh-leh",
+      "meaning": "Used to express apology sincerely."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "How do Basotho show gratitude beyond words?",
+      "sesotho": "By offering help, small gifts, or verbal blessings.",
+      "pronunciation": "—",
+      "meaning": "Actions and words are both important in showing appreciation."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "How do people express condolences in Sesotho?",
+      "sesotho": "Ke masoabi — I am sorry for your loss.",
+      "pronunciation": "keh mah-SOH-ah-bee",
+      "meaning": "A compassionate phrase used during mourning."
+    },
+    {
+      "category": "Social Interaction & Etiquette",
+      "question": "Is eye contact considered polite?",
+      "sesotho": "Moderate eye contact is polite, but too much may seem disrespectful to elders.",
+      "pronunciation": "—",
+      "meaning": "Politeness often includes humility and calm body language."
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you ask for directions in Sesotho?",
+      "sesotho": "Ke kopa tsela ho ea... meaning Please show me the way to...",
+      "pronunciation": "keh koh-pah tseh-lah hoh eh-ah",
+      "meaning": "Used when asking for directions."
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you say Where is the hotel?",
+      "sesotho": "Hotel e hokae?",
+      "pronunciation": "hoh-TEHL eh hoh-KAH-eh",
+      "meaning": "Means 'Where is the hotel?'"
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you ask How much does this cost?",
+      "sesotho": "E bitsa bokae?",
+      "pronunciation": "eh BEE-tsah boh-KAH-eh",
+      "meaning": "Means 'How much does it cost?'"
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "What’s a polite way to order food?",
+      "sesotho": "Ke kopa ... meaning Please may I have ...",
+      "pronunciation": "keh koh-pah",
+      "meaning": "Adds politeness when requesting something."
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you say I am lost?",
+      "sesotho": "Ke lahlehile.",
+      "pronunciation": "keh lah-hleh-HEE-leh",
+      "meaning": "Used to ask for help when lost."
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you ask Can you help me?",
+      "sesotho": "O ka nthusa?",
+      "pronunciation": "oh kah n-THOO-sah",
+      "meaning": "Means 'Can you help me?'"
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you ask for the nearest restaurant?",
+      "sesotho": "Resturante e haufi e hokae?",
+      "pronunciation": "reh-stoo-RAHN-teh eh HOW-fee eh hoh-KAH-eh",
+      "meaning": "Means 'Where is the nearest restaurant?'"
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "What do you say when you want to pay?",
+      "sesotho": "Ke batla ho lefa. meaning I want to pay.",
+      "pronunciation": "keh BAT-lah hoh LEH-fah",
+      "meaning": "Used in shops or restaurants."
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you ask for the bathroom?",
+      "sesotho": "Ntloana ea boithabiso e hokae?",
+      "pronunciation": "n-TLOH-ah-nah eh-ah boh-ee-thah-BEE-soh eh hoh-KAH-eh",
+      "meaning": "Means 'Where is the bathroom?'"
+    },
+    {
+      "category": "Tourism and Travel Context",
+      "question": "How do you say I like Lesotho?",
+      "sesotho": "Ke rata Lesotho.",
+      "pronunciation": "keh RAH-tah leh-SOO-thoo",
+      "meaning": "Means 'I love Lesotho.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'mountain' in Sesotho?",
+      "sesotho": "Thaba.",
+      "pronunciation": "THAH-bah",
+      "meaning": "Means 'mountain.' Lesotho is called 'The Kingdom in the Sky.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "What is 'river' in Sesotho?",
+      "sesotho": "Noka.",
+      "pronunciation": "noh-KAH",
+      "meaning": "Means river. Lesotho is the source of many rivers."
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'valley'?",
+      "sesotho": "Sekoting.",
+      "pronunciation": "seh-KOH-ting",
+      "meaning": "Means 'valley.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you describe the weather?",
+      "sesotho": "Boemo ba leholimo bo joang? — 'How is the weather?'",
+      "pronunciation": "boh-EH-moh bah leh-HOH-lee-moh boh jo-AH-ng",
+      "meaning": "Used when asking about weather conditions."
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'It is raining'?",
+      "sesotho": "Pula e a na.",
+      "pronunciation": "POO-lah eh ah nah",
+      "meaning": "Means 'It is raining.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'It is cold'?",
+      "sesotho": "Hoa bata",
+      "pronunciation": "hoh bah-TAH-ng",
+      "meaning": "Means 'It is cold.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "What is 'snow' in Sesotho?",
+      "sesotho": "Lehloa.",
+      "pronunciation": "leh-HLOH-ah",
+      "meaning": "Means 'snow' — Lesotho often experiences snowfall."
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'sun'?",
+      "sesotho": "Letsatsi.",
+      "pronunciation": "leh-TSAH-tsee",
+      "meaning": "Means 'sun.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you say 'moon'?",
+      "sesotho": "Khoeli.",
+      "pronunciation": "khweh-LEE",
+      "meaning": "Means 'moon.'"
+    },
+    {
+      "category": "Geography & Nature",
+      "question": "How do you describe Lesotho’s beauty in Sesotho?",
+      "sesotho": "Lesotho le motle haholo.",
+      "pronunciation": "leh-SOO-thoo leh moh-tleh hah-HOO-loh",
+      "meaning": "Means 'Lesotho is very beautiful.'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'I want to buy this'?",
+      "sesotho": "Ke batla ho reka see.",
+      "pronunciation": "keh BAT-lah hoh REH-kah seh-eh",
+      "meaning": "Means 'I want to buy this.'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'How much is this?'",
+      "sesotho": "E bitsa bokae?",
+      "pronunciation": "eh BEE-tsah boh-KAH-eh",
+      "meaning": "Means 'How much does it cost?'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you bargain politely?",
+      "sesotho": "O ka ntšeletsa hanyane? meaning 'Can you reduce a little?'",
+      "pronunciation": "oh kah n-TSEH-leh-tsah hah-NYAH-neh",
+      "meaning": "Used to negotiate politely."
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'That is too expensive'?",
+      "sesotho": "E turu haholo.",
+      "pronunciation": "eh TOO-roo hah-HOO-loh",
+      "meaning": "Means 'It’s too expensive.'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'Do you have change?'",
+      "sesotho": "O na le phetoho?",
+      "pronunciation": "oh nah leh PHEH-toh-hoh",
+      "meaning": "Means 'Do you have change?'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'I don’t have money'?",
+      "sesotho": "Ha ke na chelete.",
+      "pronunciation": "hah keh nah cheh-LEH-teh",
+      "meaning": "Means 'I don’t have money.'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you ask 'Do you accept cards?'",
+      "sesotho": "Na lea amohela karete?",
+      "pronunciation": "nah LEH-ah ah-moh-HEH-lah kah-REH-teh",
+      "meaning": "Means 'Do you accept cards?'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'I am just looking'?",
+      "sesotho": "Ke shebile feela.",
+      "pronunciation": "keh sheh-BEE-leh FEH-lah",
+      "meaning": "Means 'I’m just looking.'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'Can I try it on?'",
+      "sesotho": "Na nka leka?",
+      "pronunciation": "nah n-kah LEH-kah",
+      "meaning": "Means 'Can I try it on?'"
+    },
+    {
+      "category": "Market & Shopping Communication",
+      "question": "How do you say 'I’ll take it'?",
+      "sesotho": "Ke tla e nka.",
+      "pronunciation": "keh tlah eh n-kah",
+      "meaning": "Means 'I’ll take it.'"
+    },
+    {
+      "question": "What are the most famous tourist attractions in Lesotho?",
+      "answer": "The most famous attractions include Maletsunyane Falls, Thaba Bosiu, Katse Dam, Morija Museum, and the Sani Pass route.",
+      "sesotho": "Libaka tse tummeng tsa bohahlauli ke Maletsunyane Falls, Thaba Bosiu, Katse Dam, Morija Museum le tsela ea Sani Pass."
+    },
+    {
+      "question": "Where is Maletsunyane Falls located, and how can I get there?",
+      "answer": "Maletsunyane Falls is in Semonkong, about 125 km from Maseru. It can be reached by road through Roma and Ramabanta.",
+      "sesotho": "Maletsunyane Falls e Semonkong, lik'hilomithara tse 125 ho tloha Maseru. E fihlelleha ka tsela e fetang Roma le Ramabanta."
+    },
+    {
+      "question": "Can tourists hike to the bottom of Maletsunyane Falls?",
+      "answer": "Yes, there are guided hiking trails that lead to the base of the falls for close-up views and photography.",
+      "sesotho": "E, bahahlauli ba ka hloa tselana e lebisang tlase ho liphororo bakeng sa litšoantšo le pono e haufi."
+    },
+    {
+      "question": "What is special about Thaba Bosiu Mountain?",
+      "answer": "Thaba Bosiu is the birthplace of the Basotho nation, where King Moshoeshoe I established his fortress in the 1800s.",
+      "sesotho": "Thaba Bosiu ke sebaka seo morena Moshoeshoe I a thehileng naha ea Basotho teng lekholong la bo19 la lilemo."
+    },
+    {
+      "question": "How far is Thaba Bosiu from Maseru city?",
+      "answer": "Thaba Bosiu is about 25 kilometers east of Maseru, easily accessible by car or taxi.",
+      "sesotho": "Thaba Bosiu e lik'hilomithara tse ka bang 25 ho tloha Maseru, 'me e fihlelleha habonolo ka koloi kapa tekesi."
+    },
+    {
+      "question": "What can I see at the Thaba Bosiu Cultural Village?",
+      "answer": "You can see traditional Basotho huts, royal graves, and exhibitions about King Moshoeshoe I’s history.",
+      "sesotho": "U ka bona matlo a setso a Basotho, mabitla a borena le lipontšo tsa nalane ea Morena Moshoeshoe I."
+    },
+    {
+      "question": "Are there any historical landmarks in Maseru worth visiting?",
+      "answer": "Yes, visit the Parliament Building, Kingsway Street, Morija Museum, and Pioneer Mall area for history and culture.",
+      "sesotho": "E, o ka etela Paramente, Kingsway Street, Morija Museum le sebaka sa Pioneer Mall bakeng sa setso le nalane."
+    },
+    {
+      "question": "What makes Katse Dam such a popular attraction?",
+      "answer": "Katse Dam is one of Africa’s highest dams, known for its engineering marvel and scenic mountain views.",
+      "sesotho": "Katse Dam ke e 'ngoe ea matamo a phahameng ka ho fetisisa Afrika, e tsebahalang ka botle le boenjiniere."
+    },
+    {
+      "question": "Is it possible to take a tour of the Katse Dam and its tunnel system?",
+      "answer": "Yes, guided tours are available that explain the dam’s construction, purpose, and the Highlands Water Project.",
+      "sesotho": "E, ho na le maeto a tataisoang a hlalosang kaho ea dam le morero oa metsi oa Lesotho Highlands."
+    },
+    {
+      "question": "Are there guided tours available for the Lesotho Highlands Water Project?",
+      "answer": "Yes, tours can be arranged at Katse, Mohale, and Polihali dams to learn about the massive engineering project.",
+      "sesotho": "E, maeto a ka hlophisoa Katse, Mohale le Polihali ho ithuta ka morero o moholo oa metsi."
+    },
+    {
+      "question": "Can I visit the royal palace in Maseru?",
+      "answer": "The royal palace can be viewed from outside; entry is restricted, but tourists may attend national ceremonies nearby.",
+      "sesotho": "Palamente ea borena e ka bonoa kantle, empa ho kena ho thibetsoe. Bahahlauli ba ka ea meketeng ea sechaba haufi le moo."
+    },
+    {
+      "question": "Where can I experience Basotho traditional lifestyle and homesteads?",
+      "answer": "You can visit Thaba Bosiu Cultural Village or Malealea for authentic Basotho homestead experiences.",
+      "sesotho": "U ka etela Thaba Bosiu Cultural Village kapa Malealea ho bona bophelo ba Basotho ba setso."
+    },
+    {
+      "question": "What cultural villages are open to tourists in Lesotho?",
+      "answer": "Thaba Bosiu, Morija, and Malealea are among the best-known cultural villages open to tourists.",
+      "sesotho": "Thaba Bosiu, Morija le Malealea ke metse e tsebahalang ea setso e amohelang bahahlauli."
+    },
+    {
+      "question": "Are there any museums where I can learn about Lesotho’s history?",
+      "answer": "Yes, the Morija Museum & Archives preserves Lesotho’s cultural, political, and historical heritage.",
+      "sesotho": "E, Morija Museum & Archives e boloka nalane le setso sa Lesotho."
+    },
+    {
+      "question": "What are the top adventure activities to do in Lesotho?",
+      "answer": "Top activities include pony trekking, abseiling, hiking, skiing, and cultural village tours.",
+      "sesotho": "Mekhatlo e metle ea boithabiso e kenyeletsa ho palama lipere, ho hloa lithaba, ho thellisa lehloeng le maeto a setso."
+    },
+    {
+      "question": "Can tourists go pony trekking or horseback riding in Lesotho?",
+      "answer": "Yes, pony trekking is one of Lesotho’s signature adventure experiences, especially in Malealea and Semonkong.",
+      "sesotho": "E, ho palama pere ke karolo ea bohlokoa ea bohahlauli Lesotho, haholo-holo Malealea le Semonkong."
+    },
+    {
+      "question": "Where is the best place for pony trekking experiences?",
+      "answer": "Malealea Lodge, Semonkong Lodge, and Thaba Tseka region are famous for guided pony treks.",
+      "sesotho": "Malealea Lodge, Semonkong Lodge le Thaba Tseka li tsebahala ka maeto a lipere."
+    },
+    {
+      "question": "How can I reach the highest peak, Thabana Ntlenyana?",
+      "answer": "Thabana Ntlenyana is near Mokhotlong and accessible via Sani Pass or by 4x4 vehicles from the highlands.",
+      "sesotho": "Thabana Ntlenyana e haufi le Mokhotlong, e fihlelleha ka Sani Pass kapa ka koloi ea 4x4."
+    },
+    {
+      "question": "Do I need a guide to hike Thabana Ntlenyana?",
+      "answer": "Yes, hiring a local mountain guide is recommended for safety and navigation.",
+      "sesotho": "E, ho eletsoa ho hira moetapele oa lithaba bakeng sa polokeho."
+    },
+    {
+      "question": "What is the best time of year to visit Lesotho for hiking?",
+      "answer": "The best hiking season is from October to April when the weather is warm and green.",
+      "sesotho": "Nako e ntle ea ho hloa ke ho tloha Mphalane ho isa Mmesa ha maemo a leholimo a le mofuthu."
+    },
+    {
+      "question": "Are there any national parks or nature reserves in Lesotho?",
+      "answer": "Yes, Ts’ehlanyane National Park and Sehlabathebe National Park are the two main reserves.",
+      "sesotho": "E, ho na le Ts’ehlanyane National Park le Sehlabathebe National Park."
+    },
+    {
+      "question": "What kind of wildlife can I expect to see in Lesotho?",
+      "answer": "You may see elands, jackals, baboons, and many bird species in the mountain parks.",
+      "sesotho": "U ka bona likhama, liphiri, litšoene le mefuta e mengata ea linonyana."
+    },
+    {
+      "question": "Are there any safaris or wildlife viewing experiences in Lesotho?",
+      "answer": "Lesotho offers more mountain and bird-watching than big game safaris, focusing on scenic nature tours.",
+      "sesotho": "Lesotho e fana ka maeto a tlhaho a lithaba le linonyana ho fapana le lipapali tse kholo tsa liphoofolo."
+    },
+    {
+      "question": "Can I go birdwatching in Lesotho?",
+      "answer": "Yes, birdwatching is excellent, especially at Ts’ehlanyane National Park and Katse Dam area.",
+      "sesotho": "E, ho shebella linonyana ho monate haholo Ts’ehlanyane National Park le Katse Dam."
+    },
+    {
+      "question": "Are there any waterfalls besides Maletsunyane Falls?",
+      "answer": "Yes, there are others such as Ketane Falls and Qiloane Falls, both in scenic mountain regions.",
+      "sesotho": "E, ho na le Ketane Falls le Qiloane Falls libakeng tse ntle tsa lithaba."
+    },
+    {
+      "question": "Where can I find dinosaur footprints in Lesotho?",
+      "answer": "Dinosaur footprints are found in Quthing, Moyeni, and Morija regions.",
+      "sesotho": "Maoto a dinosaur a fumanoa Quthing, Moyeni le Morija."
+    },
+    {
+      "question": "What is the story behind Lesotho’s dinosaur track sites?",
+      "answer": "Lesotho has some of the oldest dinosaur footprints in Africa, preserved in ancient sandstone.",
+      "sesotho": "Lesotho e na le maoto a khale ka ho fetisisa a dinosaur Afrika, a bolokiloeng mafikeng a khale."
+    },
+    {
+      "question": "Are the dinosaur footprints open to the public?",
+      "answer": "Yes, guided tours are available at Quthing Dinosaur Footprints site.",
+      "sesotho": "E, maeto a tataisoang a teng sebakeng sa maoto a dinosaur Quthing."
+    },
+    {
+      "question": "Is it possible to go skiing in Lesotho?",
+      "answer": "Yes, Afriski Mountain Resort offers skiing and snowboarding during winter.",
+      "sesotho": "E, Afriski Mountain Resort e fana ka ho thellisa lehloeng nakong ea mariha."
+    },
+    {
+      "question": "Which resort offers skiing or snowboarding?",
+      "answer": "Afriski Mountain Resort in Butha-Buthe is the main destination for winter sports.",
+      "sesotho": "Afriski Mountain Resort e Butha-Buthe ke sebaka se seholo sa lipapali tsa mariha."
+    },
+    {
+      "question": "When is the snow season in Lesotho?",
+      "answer": "Snow season typically runs from June to August in the highlands.",
+      "sesotho": "Nako ea lehloa e qala ka Phuptjane ho isa Phato lithabeng tse phahameng."
+    },
+    {
+      "question": "Are there scenic drives or mountain passes worth exploring?",
+      "answer": "Yes, Sani Pass, Moteng Pass, and Mahlasela Pass are among the most scenic routes.",
+      "sesotho": "E, Sani Pass, Moteng Pass le Mahlasela Pass ke litsela tse ntle haholo."
+    },
+    {
+      "question": "How do I get to Sani Pass from Lesotho’s side?",
+      "answer": "Sani Pass can be accessed from Mokhotlong district, leading to the South African border.",
+      "sesotho": "Sani Pass e fihlelleha ho tloha Mokhotlong e lebisang moeling oa Afrika Boroa."
+    },
+    {
+      "question": "Is a 4x4 vehicle required for Sani Pass?",
+      "answer": "Yes, only 4x4 vehicles are recommended due to steep and rough terrain.",
+      "sesotho": "E, ho eletsoa ho sebelisa koloi ea 4x4 ka lebaka la maralla a thata."
+    },
+    {
+      "question": "Are there panoramic viewpoints in Lesotho for photography?",
+      "answer": "Yes, Qiloane Peak, Sani Top, and Katse viewpoints offer breathtaking photo opportunities.",
+      "sesotho": "E, Qiloane Peak, Sani Top le Katse viewpoints li fana ka pono e ntle haholo ea ho nka litšoantšo."
+    },
+    {
+      "question": "What are the best eco-lodges or mountain resorts in Lesotho?",
+      "answer": "Malealea Lodge, Semonkong Lodge, Afriski, and Maliba Lodge are popular eco-resorts.",
+      "sesotho": "Malealea Lodge, Semonkong Lodge, Afriski le Maliba Lodge li tumme haholo."
+    },
+    {
+      "question": "Are there any camping sites in Lesotho’s highlands?",
+      "answer": "Yes, camping is available at Ts’ehlanyane, Sehlabathebe, and near Semonkong.",
+      "sesotho": "E, ho na le libaka tsa ho kampela Ts’ehlanyane, Sehlabathebe le haufi le Semonkong."
+    },
+    {
+      "question": "Where can I experience traditional Basotho music or dance performances?",
+      "answer": "Cultural centers in Morija and Thaba Bosiu often host live traditional performances.",
+      "sesotho": "Litsi tsa setso tsa Morija le Thaba Bosiu li atisa ho tšoara lipontšo tsa mmino oa setso."
+    },
+    {
+      "question": "Are there any annual festivals in Lesotho that celebrate Basotho culture?",
+      "answer": "Yes, the Morija Arts and Cultural Festival is held annually to celebrate Basotho heritage.",
+      "sesotho": "E, Morija Arts and Cultural Festival e tšoaroa selemo le selemo ho keteka setso sa Basotho."
+    },
+    {
+      "question": "When is the Morija Arts and Cultural Festival held?",
+      "answer": "It is usually held in October each year in the town of Morija.",
+      "sesotho": "Hangata e tšoaroa ka Mphalane selemo le selemo motseng oa Morija."
+    },
+    {
+      "question": "What can tourists expect at the Morija Museum & Archives?",
+      "answer": "Visitors can explore historical artifacts, photos, and cultural exhibitions of the Basotho nation.",
+      "sesotho": "Baeti ba ka bona lintho tsa nalane, linepe le lipontšo tsa setso sa Basotho."
+    },
+    {
+      "question": "Are there any craft markets where I can buy Basotho blankets or souvenirs?",
+      "answer": "Yes, Maseru Craft Market and Morija offer handmade crafts and traditional blankets.",
+      "sesotho": "E, 'maraka oa mesebetsi oa matsoho Maseru le Morija o fana ka likobo le lintho tse entsoeng ka letsoho."
+    },
+    {
+      "question": "What local crafts or handmade items are unique to Lesotho?",
+      "answer": "Basotho hats (mokorotlo), woven baskets, and beadwork are popular traditional crafts.",
+      "sesotho": "Mokorotlo, mekotla e lohiloeng le mesebetsi ea mabenyane ke mesebetsi e ikhethang ea Basotho."
+    },
+    {
+      "question": "Where can I learn about King Moshoeshoe I’s history and legacy?",
+      "answer": "Visit Thaba Bosiu Cultural Village and Morija Museum for exhibits about King Moshoeshoe I.",
+      "sesotho": "Etela Thaba Bosiu Cultural Village le Morija Museum bakeng sa lipontšo tsa Morena Moshoeshoe I."
+    },
+    {
+      "question": "What is the best place to view Lesotho’s mountain landscapes?",
+      "answer": "Katse Dam, Sani Top, and Maliba Lodge area offer the best panoramic mountain views.",
+      "sesotho": "Katse Dam, Sani Top le sebaka sa Maliba Lodge li fana ka pono e ntle ea lithaba."
+    },
+    {
+      "question": "Are there any community-based tourism projects in Lesotho?",
+      "answer": "Yes, initiatives in Malealea and Thaba Tseka support local homestays and eco-tours.",
+      "sesotho": "E, ho na le merero ea sechaba Malealea le Thaba Tseka e tšehetsang bahoebi ba lehae."
+    },
+    {
+      "question": "Can I take guided tours from Maseru to rural areas?",
+      "answer": "Yes, several tour operators in Maseru organize guided trips to mountains and cultural sites.",
+      "sesotho": "E, bahlophisi ba maeto Maseru ba hlophisa maeto a tataisoang libakeng tsa setso le lithaba."
+    },
+    {
+      "question": "Is it safe to travel around Lesotho as a tourist?",
+      "answer": "Yes, Lesotho is generally safe for tourists, but mountain travel requires caution and proper gear.",
+      "sesotho": "E, Lesotho e bolokehile bakeng sa bahahlauli, empa maeto a lithaba a hloka tlhokomelo le lisebelisoa tse loketseng."
+    },
+    {
+      "question": "Are English and Sesotho widely spoken at tourist destinations?",
+      "answer": "Yes, most people in tourism speak both English and Sesotho, especially at lodges and hotels.",
+      "sesotho": "E, batho ba bangata ba indasteri ea bohahlauli ba bua Senyesemane le Sesotho."
+    },
+    {
+      "question": "How can I travel between different tourist attractions in Lesotho?",
+      "answer": "You can travel by private car, taxi, or guided tour service depending on distance and terrain.",
+      "sesotho": "U ka tsamaea ka koloi ea hau, tekesi kapa ts'ebeletso ea maeto ho latela sebaka le tsela."
+    },
+    {
+      "user_query": "I want a 4-day trip to Lesotho focusing on Maletsunyane Falls and nature exploration.",
+      "duration_days": 4,
+      "interests": ["waterfalls", "nature", "hiking"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru to Semonkong",
+          "activities": [
+            "Drive from Maseru to Semonkong (2.5 hours)",
+            "Stop at Roma for scenic views",
+            "Check-in at Semonkong Lodge"
+          ],
+          "transport": "Private car or tour shuttle",
+          "meal_recommendations": ["Dinner at Semonkong Lodge restaurant"],
+          "notes": "Carry light snacks and water for the road."
+        },
+        {
+          "day_number": 2,
+          "location": "Semonkong",
+          "activities": [
+            "Visit Maletsunyane Falls viewpoint",
+            "Take guided hike to the base of the falls",
+            "Optional abseiling or horseback tour"
+          ],
+          "transport": "Local guide transport",
+          "meal_recommendations": ["Lunch at lodge café"],
+          "notes": "Wear non-slip shoes; photography is excellent in the morning."
+        },
+        {
+          "day_number": 3,
+          "location": "Semonkong Village",
+          "activities": [
+            "Explore local Basotho village life",
+            "Try traditional beer (joala)",
+            "Buy handmade crafts"
+          ],
+          "transport": "Walk or local pony ride",
+          "meal_recommendations": ["Lunch with local family experience"],
+          "notes": "Respect cultural norms during visits."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Maseru",
+          "activities": [
+            "Scenic drive back to Maseru",
+            "Stop for souvenirs in Roma",
+            "Relaxed evening in Maseru city"
+          ],
+          "transport": "Private car or tour bus",
+          "meal_recommendations": ["Dinner at No.7 Restaurant, Maseru"],
+          "notes": "Departure next day or optional city tour."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day cultural trip to Thaba Bosiu and nearby heritage sites.",
+      "duration_days": 4,
+      "interests": ["culture", "history", "heritage"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru City",
+          "activities": [
+            "Arrival in Maseru and hotel check-in",
+            "Visit Basotho Hat Centre",
+            "Evening city tour and dinner"
+          ],
+          "transport": "Taxi or private car",
+          "meal_recommendations": ["Dinner at Regal Restaurant"],
+          "notes": "Get local SIM card for navigation."
+        },
+        {
+          "day_number": 2,
+          "location": "Thaba Bosiu",
+          "activities": [
+            "Visit Thaba Bosiu Cultural Village",
+            "Hike to King Moshoeshoe I’s fortress",
+            "Attend cultural storytelling session"
+          ],
+          "transport": "30-minute drive from Maseru",
+          "meal_recommendations": ["Lunch at cultural village café"],
+          "notes": "Photography allowed; bring hat and sunscreen."
+        },
+        {
+          "day_number": 3,
+          "location": "Morija",
+          "activities": [
+            "Visit Morija Museum & Archives",
+            "Explore historical churches and colonial relics",
+            "Dinner with live Basotho music"
+          ],
+          "transport": "Drive 1 hour from Maseru",
+          "meal_recommendations": ["Dinner at Morija Guest House"],
+          "notes": "Museum closes early afternoon—go before 3PM."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Maseru",
+          "activities": [
+            "Shopping at Pioneer Mall",
+            "Visit Basotho blanket shop",
+            "Relax before departure"
+          ],
+          "transport": "Return drive to Maseru",
+          "meal_recommendations": ["Lunch at Café 102"],
+          "notes": "End of tour; souvenirs recommended."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day city experience in Maseru exploring modern and cultural attractions.",
+      "duration_days": 4,
+      "interests": ["city life", "culture", "food"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru City Center",
+          "activities": [
+            "Check-in at hotel",
+            "Visit Basotho Hat landmark",
+            "Evening at Maseru Mall"
+          ],
+          "transport": "Walk or taxi",
+          "meal_recommendations": ["Dinner at Lancers Inn"],
+          "notes": "Best for evening walks and sunset photos."
+        },
+        {
+          "day_number": 2,
+          "location": "Royal Palace and Parliament area",
+          "activities": [
+            "View Royal Palace exterior",
+            "Tour Parliament grounds",
+            "Lunch near city square"
+          ],
+          "transport": "Taxi or local bus",
+          "meal_recommendations": ["Lunch at Regal Restaurant"],
+          "notes": "Photography of palace restricted; follow guide instructions."
+        },
+        {
+          "day_number": 3,
+          "location": "Thaba Bosiu excursion",
+          "activities": [
+            "Half-day trip to Thaba Bosiu",
+            "Cultural storytelling and shopping",
+            "Return to Maseru for dinner"
+          ],
+          "transport": "Guided tour vehicle",
+          "meal_recommendations": ["Dinner at No.7 Restaurant"],
+          "notes": "Plan early morning departure."
+        },
+        {
+          "day_number": 4,
+          "location": "Maseru Markets",
+          "activities": [
+            "Shop for crafts and souvenirs",
+            "Try street food (fat cakes, papa and moroho)",
+            "Departure preparation"
+          ],
+          "transport": "Taxi or walking",
+          "meal_recommendations": ["Breakfast at hotel café"],
+          "notes": "Keep valuables safe in busy markets."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day scenic and engineering-focused tour of Katse Dam and surrounding mountains.",
+      "duration_days": 4,
+      "interests": ["engineering", "nature", "scenery"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru to Katse Dam",
+          "activities": [
+            "Drive via Lejone and Bokong (5-6 hours)",
+            "Stop at viewpoints along route",
+            "Check in at Katse Lodge"
+          ],
+          "transport": "Private 4x4 vehicle",
+          "meal_recommendations": ["Dinner at Katse Lodge restaurant"],
+          "notes": "Roads are mountainous; travel early."
+        },
+        {
+          "day_number": 2,
+          "location": "Katse Dam",
+          "activities": [
+            "Guided tour of Katse Dam and power station",
+            "Visit Katse Botanical Garden",
+            "Boat cruise on Katse Reservoir (optional)"
+          ],
+          "transport": "Local guide and tour bus",
+          "meal_recommendations": ["Lunch at lodge café"],
+          "notes": "Carry warm clothes; weather can change quickly."
+        },
+        {
+          "day_number": 3,
+          "location": "Bokong Nature Reserve",
+          "activities": [
+            "Visit Bokong Visitor Centre",
+            "Short hike to waterfall viewpoint",
+            "Picnic lunch"
+          ],
+          "transport": "1-hour drive from Katse",
+          "meal_recommendations": ["Packed lunch"],
+          "notes": "Good for bird watching; binoculars recommended."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Maseru",
+          "activities": [
+            "Scenic drive back to Maseru",
+            "Stop for crafts at Leribe",
+            "Evening at leisure"
+          ],
+          "transport": "Private vehicle",
+          "meal_recommendations": ["Dinner at hotel restaurant"],
+          "notes": "End of mountain adventure."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day royal and historical experience in Maseru visiting the Royal Palace and nearby sites.",
+      "duration_days": 4,
+      "interests": ["royalty", "history", "culture"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru",
+          "activities": [
+            "City tour and market exploration",
+            "Visit Royal Palace exterior",
+            "Dinner at city restaurant"
+          ],
+          "transport": "Taxi",
+          "meal_recommendations": ["Dinner at No.7 Restaurant"],
+          "notes": "Palace tours must be booked in advance."
+        },
+        {
+          "day_number": 2,
+          "location": "Morija",
+          "activities": [
+            "Visit Morija Museum & Archives",
+            "Learn about King Moshoeshoe I",
+            "Enjoy local crafts market"
+          ],
+          "transport": "1-hour drive from Maseru",
+          "meal_recommendations": ["Lunch at Morija Museum Café"],
+          "notes": "Check museum opening times."
+        },
+        {
+          "day_number": 3,
+          "location": "Thaba Bosiu",
+          "activities": [
+            "Tour the historic mountain fortress",
+            "Cultural storytelling session",
+            "Return to Maseru"
+          ],
+          "transport": "30-minute drive",
+          "meal_recommendations": ["Dinner in Maseru"],
+          "notes": "Carry water; hiking trail is steep."
+        },
+        {
+          "day_number": 4,
+          "location": "Maseru",
+          "activities": [
+            "Relax and visit Pioneer Mall",
+            "Buy souvenirs and Basotho blankets",
+            "Evening at leisure"
+          ],
+          "transport": "Taxi",
+          "meal_recommendations": ["Lunch at Café 102"],
+          "notes": "Tour concludes after lunch."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day hiking adventure to Thabana Ntlenyana, the highest point in Lesotho.",
+      "duration_days": 4,
+      "interests": ["hiking", "mountains", "adventure"],
+      "start_location": "Mokhotlong",
+      "budget_level": "high",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Mokhotlong",
+          "activities": [
+            "Arrival and gear check",
+            "Meet mountain guide",
+            "Short acclimatization walk"
+          ],
+          "transport": "4x4 from Maseru (8 hours)",
+          "meal_recommendations": ["Dinner at local lodge"],
+          "notes": "Bring warm clothing; nights are cold."
+        },
+        {
+          "day_number": 2,
+          "location": "Sehonghong Trail Start",
+          "activities": [
+            "Start trek towards Thabana Ntlenyana base",
+            "Picnic lunch en route",
+            "Camp overnight in tents"
+          ],
+          "transport": "Hiking",
+          "meal_recommendations": ["Packed lunch and campfire dinner"],
+          "notes": "Hydrate well; altitude may affect breathing."
+        },
+        {
+          "day_number": 3,
+          "location": "Thabana Ntlenyana Summit",
+          "activities": [
+            "Summit climb early morning",
+            "Take photos at 3,482m peak",
+            "Descend to camp for lunch"
+          ],
+          "transport": "Hiking",
+          "meal_recommendations": ["Breakfast before climb, lunch at base"],
+          "notes": "Weather can be unpredictable—check forecasts."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Mokhotlong",
+          "activities": [
+            "Trek back to trailhead",
+            "Return drive to Mokhotlong",
+            "Rest and farewell dinner"
+          ],
+          "transport": "Hiking and vehicle transfer",
+          "meal_recommendations": ["Dinner at lodge"],
+          "notes": "Certificates available for summit completion."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day exploration of Lesotho’s dinosaur footprint sites and history.",
+      "duration_days": 4,
+      "interests": ["paleontology", "history", "nature"],
+      "start_location": "Maseru",
+      "budget_level": "medium",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru to Quthing",
+          "activities": [
+            "Drive to Quthing (4-5 hours)",
+            "Visit local markets",
+            "Check in at local guesthouse"
+          ],
+          "transport": "Private car or bus",
+          "meal_recommendations": ["Dinner at lodge restaurant"],
+          "notes": "Start early to maximize daylight."
+        },
+        {
+          "day_number": 2,
+          "location": "Dinosaur Footprint Site",
+          "activities": [
+            "Tour the Quthing dinosaur footprints",
+            "Learn from local guides about discovery history",
+            "Photography session"
+          ],
+          "transport": "Local 4x4 drive",
+          "meal_recommendations": ["Packed lunch"],
+          "notes": "Bring hat and sunscreen."
+        },
+        {
+          "day_number": 3,
+          "location": "Morija",
+          "activities": [
+            "Visit Morija Museum & Archives",
+            "Explore geology exhibits",
+            "Evening cultural dinner"
+          ],
+          "transport": "Drive 2 hours from Quthing",
+          "meal_recommendations": ["Dinner at guesthouse"],
+          "notes": "Good opportunity for souvenir shopping."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Maseru",
+          "activities": [
+            "Drive back to Maseru",
+            "Relax and city shopping",
+            "Departure preparation"
+          ],
+          "transport": "Private car",
+          "meal_recommendations": ["Lunch en route"],
+          "notes": "End of dinosaur heritage trip."
+        }
+      ]
+    },
+    {
+      "user_query": "I want a 4-day ski and mountain adventure at Afriski Mountain Resort in Lesotho.",
+      "duration_days": 4,
+      "interests": ["skiing", "adventure", "mountains"],
+      "start_location": "Maseru",
+      "budget_level": "high",
+      "itinerary": [
+        {
+          "day_number": 1,
+          "location": "Maseru to Afriski",
+          "activities": [
+            "Drive through Moteng Pass to Afriski (5 hours)",
+            "Check in at resort lodge",
+            "Evening bonfire"
+          ],
+          "transport": "Private car or shuttle",
+          "meal_recommendations": ["Dinner at Sky Restaurant"],
+          "notes": "Carry warm clothes; snow gear available for rent."
+        },
+        {
+          "day_number": 2,
+          "location": "Afriski Resort",
+          "activities": [
+            "Skiing or snowboarding lessons",
+            "Snow tubing for beginners",
+            "Hot chocolate by the fire"
+          ],
+          "transport": "On-site",
+          "meal_recommendations": ["Lunch at Gondola Café"],
+          "notes": "Book ski passes early; helmets required."
+        },
+        {
+          "day_number": 3,
+          "location": "Mountain Activities",
+          "activities": [
+            "Quad biking through highlands",
+            "Photography at scenic viewpoints",
+            "Evening live music event"
+          ],
+          "transport": "On-site vehicles",
+          "meal_recommendations": ["Dinner at Sky Restaurant"],
+          "notes": "Perfect for adventure and leisure mix."
+        },
+        {
+          "day_number": 4,
+          "location": "Return to Maseru",
+          "activities": [
+            "Breakfast and checkout",
+            "Scenic drive through Oxbow Valley",
+            "Stop for souvenirs at Leribe"
+          ],
+          "transport": "Private car or shuttle",
+          "meal_recommendations": ["Lunch on the way"],
+          "notes": "End of ski adventure."
+        }
+      ]
+    }
+  ]
+}
+
