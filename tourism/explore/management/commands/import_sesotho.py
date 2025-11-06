@@ -1,4 +1,4 @@
-# chatbot/management/commands/import_sesotho.py
+    # chatbot/management/commands/import_sesotho.py
 import json
 import re
 from django.core.management.base import BaseCommand

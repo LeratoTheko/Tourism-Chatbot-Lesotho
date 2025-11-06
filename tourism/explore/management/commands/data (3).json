@@ -1,6 +1,139 @@
 {
   "data": [
     {
+      "category": "Lesotho and Places of Attraction",
+      "question": "Where is Lesotho located?",
+      "sesotho": "Lesotho le fumaneha ka hare ho Afrika Borwa.",
+      "pronunciation": "leh-SOO-thoh leh foo-mah-NEH-hah kah HAH-reh ho AH-free-kah BOH-roo-ah",
+      "meaning": "Lesotho is located inside South Africa."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is the capital city of Lesotho?",
+      "sesotho": "Motse-moholo oa Lesotho ke Maseru.",
+      "pronunciation": "moh-tseh moh-HO-loh wah leh-SOO-thoh keh mah-SEH-roo",
+      "meaning": "The capital city of Lesotho is Maseru."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is Lesotho known for?",
+      "sesotho": "Lesotho le tsebahala ka lithaba le lebitso la lona 'The Kingdom in the Sky'.",
+      "pronunciation": "leh-SOO-thoh leh tseh-bah-HAH-lah kah lee-THAH-bah leh leh-BEET-soh lah LOH-nah",
+      "meaning": "Lesotho is known for its mountains and nickname 'The Kingdom in the Sky.'"
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is the main language spoken in Lesotho?",
+      "sesotho": "Puo e ka sehloohong ke Sesotho.",
+      "pronunciation": "poo-oh eh kah seh-HLOO-hong keh seh-SOO-thoh",
+      "meaning": "The main language is Sesotho."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What currency is used in Lesotho?",
+      "sesotho": "Chelete e sebelisoang ke Loti (plural: Maloti) le Rand ea Afrika Borwa.",
+      "pronunciation": "cheh-LEH-teh eh seh-beh-lee-SOH-ahng keh LOH-tee / mah-LOH-tee leh rahnd eh AH-free-kah BOH-roo-ah",
+      "meaning": "Lesotho uses the Loti (plural Maloti) and the South African Rand."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is the famous waterfall in Lesotho?",
+      "sesotho": "Maletsunyane Falls e Mokhotlong, e haufi le Semonkong.",
+      "pronunciation": "mah-leh-tsoo-NYAH-neh fo-lz eh moh-KHOT-long, eh how-fee leh seh-mohn-KONG",
+      "meaning": "Maletsunyane Falls near Semonkong is a famous waterfall in Lesotho."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "Where can I see dinosaur footprints in Lesotho?",
+      "sesotho": "U ka bona maoto a dinosaur Thaba-Bosiu kapa Moyeni.",
+      "pronunciation": "oo kah boh-nah mah-OH-toh ah dye-nah-sohr tah-bah boh-SEE-oo kah-pah moh-YEH-nee",
+      "meaning": "You can see dinosaur footprints at Thaba-Bosiu or Moyeni."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is Thaba-Bosiu famous for?",
+      "sesotho": "Thaba-Bosiu ke sebaka sa nalane moo Morena Moshoeshoe I a ileng a theha Lesotho.",
+      "pronunciation": "tah-bah boh-SEE-oo keh seh-BAH-kah sah nah-LAH-neh moh reh-NEH moh-shweh-shweh sa pele ah EE-lehng ah teh-HAH leh-SOO-thoh",
+      "meaning": "Thaba-Bosiu is a historic site where King Moshoeshoe I founded Lesotho."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is Semonkong known for?",
+      "sesotho": "Semonkong se tsebahala ka Maletsunyane Falls le likoloi tsa lipere.",
+      "pronunciation": "seh-mohn-KONG seh tseh-bah-HAH-lah kah mah-leh-tsoo-NYAH-neh fo-lz leh lee-koh-LOH-ee tsah lee-PEH-reh",
+      "meaning": "Semonkong is known for the Maletsunyane Falls and pony trekking."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What can tourists do in Lesotho?",
+      "sesotho": "Baeti ba ka hloa lithaba, ba tsamaee ka lipere, kapa ba etele libaka tsa nalane.",
+      "pronunciation": "bah-EH-tee bah kah hlo-AH lee-THAH-bah, bah tsah-MAH-eh kah lee-PEH-reh, kah-pah bah EH-teh-leh lee-BAH-kah tsah nah-LAH-neh",
+      "meaning": "Tourists can hike mountains, ride ponies, or visit historical sites."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is Katse Dam?",
+      "sesotho": "Katse Dam ke letamo le leholo la metsi le leng Lithabeng tsa Lesotho.",
+      "pronunciation": "ka-tseh dahm keh leh-TAH-moh leh leh-HOH-loh lah MEH-tsee leh lehng lee-THAH-beng tsah leh-SOO-thoh",
+      "meaning": "Katse Dam is a large water reservoir in the Lesotho Highlands."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is the Lesotho Highlands Water Project?",
+      "sesotho": "Ke projeke e fetisang metsi ho ea Afrika Borwa, e thusang moruo oa Lesotho.",
+      "pronunciation": "keh proh-JEH-keh eh feh-tee-sahng MEH-tsee ho eh AH-free-kah BOH-roo-ah, eh thoo-sahng moh-ROO-oh wah leh-SOO-thoh",
+      "meaning": "It is a project that transfers water to South Africa and supports Lesotho’s economy."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "Where can I go skiing in Lesotho?",
+      "sesotho": "U ka ea Afriski, e leng setsing sa boithabiso lithabeng tsa Maluti.",
+      "pronunciation": "oo kah eh-ah ah-free-skee, eh lehng seh-tsee-ng sah boy-thah-BEE-soh lee-THAH-beng tsah mah-LOO-tee",
+      "meaning": "You can go to Afriski, a resort in the Maluti Mountains."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What mountain range runs through Lesotho?",
+      "sesotho": "Lithaba tsa Maloti li phunyeletsa naha kaofela.",
+      "pronunciation": "lee-THAH-bah tsah mah-LOH-tee lee phoo-NYEH-leh-tsah nah-HAH kah-oh-FEH-lah",
+      "meaning": "The Maloti Mountains run across the whole country."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What wildlife can be found in Lesotho?",
+      "sesotho": "Ho na le liphoofolo tse kang likhama, likatse tsa lithaba, le linonyana tse fapaneng.",
+      "pronunciation": "hoh nah leh lee-phoo-oh-FOH-loh tseh kahng lee-KHAH-mah, lee-KAH-tseh tsah lee-THAH-bah, leh lee-nohn-YAH-nah tseh fah-tahng-AHng",
+      "meaning": "You can find animals such as antelopes, mountain cats, and various birds."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is the cultural village in Lesotho called?",
+      "sesotho": "Ke Thaba-Bosiu Cultural Village haufi le Maseru.",
+      "pronunciation": "keh tah-bah boh-SEE-oo kahlt-shu-rah vee-lij how-fee leh mah-SEH-roo",
+      "meaning": "It is called Thaba-Bosiu Cultural Village, near Maseru."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What traditional hat is Lesotho famous for?",
+      "sesotho": "Lesotho le tsebahala ka mokorotlo.",
+      "pronunciation": "leh-SOO-thoh leh tseh-bah-HAH-lah kah moh-koh-ROHT-loh",
+      "meaning": "Lesotho is famous for the mokorotlo, the traditional Basotho hat."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What is a Basotho blanket?",
+      "sesotho": "Ke kobo e khethehileng eo Basotho ba e aparang maemong a bohlokoa.",
+      "pronunciation": "keh koh-boh eh kheh-theh-HEE-lehng eh-oh bah-SOO-thoh bah eh ah-PAH-rahng mah-EH-mohng ah boh-HOH-twahng",
+      "meaning": "It is a special blanket worn by Basotho people on important occasions."
+    },
+    {
+      "category": "Lesotho and Places of Attraction",
+      "question": "What makes Lesotho unique in Africa?",
+      "sesotho": "Ke naha e phahameng ka ho fetisisa kontinenteng eohle, e entsoeng ka lithaba feela.",
+      "pronunciation": "keh nah-HAH eh sahng-HAAH-ng kah hoh-fee-HI-see-tsoh kohn-tee-nehn-tehng eh-oh-hleh, eh ehn-tsoh-ehng kah lee-THAH-bah feh-lah",
+      "meaning": "It is the highest-altitude country in Africa, made entirely of mountains."
+    },
+    {
       "category": "Basic Communication",
       "question": "How do I say hello in Sesotho?",
       "sesotho": "Lumela (to one person) / Lumelang (to many)",

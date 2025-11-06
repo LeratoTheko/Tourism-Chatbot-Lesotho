@@ -6,13 +6,17 @@ from .models import Rule, Response, Intent
 def _normalize(text: str) -> str:
     return (text or "").strip().lower()
 
+
+
 def fuzzy_ratio(a, b):
     return int(SequenceMatcher(None, a, b).ratio() * 100)
+
+
 
 def find_rule_for_text(user_text: str, fuzzy_threshold: int = 70):
     u = _normalize(user_text)
 
-    # 1) exact rules (case-insensitive)
+    # 1) exact rules
     exact_rules = Rule.objects.filter(match_type='exact')
     for r in exact_rules:
         if _normalize(r.pattern) == u:
@@ -27,16 +31,15 @@ def find_rule_for_text(user_text: str, fuzzy_threshold: int = 70):
         except re.error:
             continue
 
-    # 3) keyword rules - pattern is comma-separated keywords
+    # 3) keyword rules - comma-separated
     keyword_rules = Rule.objects.filter(match_type='keyword')
     for r in keyword_rules:
         keywords = [k.strip() for k in r.pattern.split(',') if k.strip()]
-        # require at least one keyword match
         if any(kw in u for kw in keywords):
             return r, 'keyword'
 
-    # 4) fuzzy match against exact patterns (helpful for typos)
-    best = (None, 0)  # (rule, score)
+    # 4) fuzzy match
+    best = (None, 0)
     for r in exact_rules:
         score = fuzzy_ratio(_normalize(r.pattern), u)
         if score > best[1]:
@@ -44,12 +47,28 @@ def find_rule_for_text(user_text: str, fuzzy_threshold: int = 70):
     if best[0] and best[1] >= fuzzy_threshold:
         return best[0], 'fuzzy'
 
-    # 5) fallback: try to pick an intent by matching category words in user's text (weak)
+    # 5) 🔍 new semantic keyword pass (modern enhancement)
+    # try to find any intent whose keywords appear anywhere in the text
+    tokens = [t for t in re.findall(r"\w+", u) if len(t) > 2]  # filter tiny words
+    all_keyword_rules = Rule.objects.filter(match_type='keyword')
+    scored_rules = []
+    for r in all_keyword_rules:
+        keywords = [k.strip().lower() for k in r.pattern.split(',') if k.strip()]
+        matches = sum(1 for kw in keywords if kw in tokens)
+        if matches > 0:
+            score = matches / len(keywords)
+            scored_rules.append((r, score))
+
+    if scored_rules:
+        # Pick the rule with highest match density
+        best_rule = sorted(scored_rules, key=lambda x: x[1], reverse=True)[0][0]
+        return best_rule, 'semantic_keyword'
+
+    # 6) fallback intent detection by name
     intents = Intent.objects.all()
     for intent in intents:
         key_words = [w.lower() for w in re.findall(r"\w+", intent.name)]
         if any(k in u for k in key_words):
-            # return the top response for that intent
             possible_rules = intent.rules.all().order_by('priority')
             if possible_rules.exists():
                 return possible_rules.first(), 'intent_keyword'
